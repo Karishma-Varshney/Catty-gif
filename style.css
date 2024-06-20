@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #DCD6F7;
+    font-family: 'Reddit Mono';
+}
+
+h1{
+    text-align: center;
+    font-size: 8rem;
+    color: #B4869F;
+    font-family: 'Edu NSW ACT Foundation';
+    letter-spacing: 2rem;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10rem;
+    
+}
+
+button{
+    font-size: 2rem;
+    padding: 20px;
+    border-radius: 2rem;
+    background-color: #985F6F;
+}
+
+#cat{
+    width: 35rem;
+    height: 20rem;
+}
