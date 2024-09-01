@@ -35,13 +35,6 @@ JavaScript: Programming language used to add interactivity and dynamic features 
 
 ![ss2](https://i.imgur.com/wxmwgBC.png)
 
-
-
-
-
-
-
-
 ## Usage
 
 1. Open index.html in your preferred web browser.
